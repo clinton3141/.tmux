@@ -7,3 +7,4 @@
 ```
 source-file ~/.config/tmux/tmux.conf
 ```
+3. Install plugins with tpm: `C-s I`
