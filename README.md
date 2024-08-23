@@ -8,3 +8,17 @@
 source-file ~/.config/tmux/tmux.conf
 ```
 3. Install plugins with tpm: `C-s I`
+
+## Keys
+
+* Prefix: `C-s`
+* Reload config: `C-s r`
+* Window navigation `C-s h/j/k/l` (vim)
+
+## Plugin manager
+
+[tmux-plugins/tpm](https://github.com/tmux-plugins/tpm)
+
+## Theme
+
+[catppuccin/tmux](https://github.com/catppuccin/tmux)
